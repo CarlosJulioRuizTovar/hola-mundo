@@ -18,5 +18,5 @@ Widgets adicionales:
 2. Spinbox: permite agregar un multiplicador al resultado obtenido.
 3. Progressbar: simula una barra de carga al momento de realizar la operación.
 
-![Calculadora Tkinter](/images/Tkinter.png)
-![Calculadora Tkinter1](/images/Tkinter1.png)
+![Calculadora Tkinter](https://github.com/CarlosJulioRuizTovar/hola-mundo/blob/main/Tkinter.png)
+![Calculadora Tkinter1]()
