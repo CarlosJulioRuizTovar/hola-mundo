@@ -10,9 +10,7 @@ Información básica para ejecutar el programa:
 El programa necesita las siguientes librerías: Tkinter, de esta se usaron: ttk.
 
 Ejecutar los siguientes comandos para instalar las librerías:
-
 • import tkinter as tk
-
 • from tkinter import ttk
 
 Widgets adicionales:
